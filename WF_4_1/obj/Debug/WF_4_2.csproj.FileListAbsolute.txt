@@ -1,0 +1,9 @@
+D:\999\WinForms\WF_4\WF_4\WF_4_1\bin\Debug\WF_4_1.exe.config
+D:\999\WinForms\WF_4\WF_4\WF_4_1\bin\Debug\WF_4_1.exe
+D:\999\WinForms\WF_4\WF_4\WF_4_1\bin\Debug\WF_4_1.pdb
+D:\999\WinForms\WF_4\WF_4\WF_4_1\obj\Debug\WF_4_2.Form1.resources
+D:\999\WinForms\WF_4\WF_4\WF_4_1\obj\Debug\WF_4_1.Properties.Resources.resources
+D:\999\WinForms\WF_4\WF_4\WF_4_1\obj\Debug\WF_4_2.csproj.GenerateResource.Cache
+D:\999\WinForms\WF_4\WF_4\WF_4_1\obj\Debug\WF_4_1.exe
+D:\999\WinForms\WF_4\WF_4\WF_4_1\obj\Debug\WF_4_1.pdb
+D:\999\WinForms\WF_4\WF_4\WF_4_1\obj\Debug\WF_4_2.csprojResolveAssemblyReference.cache
